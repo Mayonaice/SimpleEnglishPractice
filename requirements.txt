@@ -1,0 +1,18 @@
+# Paket untuk versi lengkap (english_practice_app.py)
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+customtkinter==5.2.0
+
+# Paket untuk versi sederhana (simple_english_practice.py)
+# Tidak memerlukan paket tambahan, menggunakan tkinter bawaan
+
+# Paket untuk versi Python 3.13 dengan mikrofon (english_practice_mic_py3_13.py)
+# PyAudio==0.2.13 (sudah termasuk di atas)
+
+# Paket untuk versi simulator mikrofon (english_practice_mic_simulator.py)
+# Tidak memerlukan paket tambahan, hanya menggunakan tkinter bawaan, threading, dan random
+
+# PyAudio==0.2.13 - Silakan instal secara manual dengan cara di README.md
+language-tool-python==2.7.1
+# tkinter - sudah terinstal dengan Python
+Pillow==10.0.0 
